@@ -1,41 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4456f1ef-f916-4de7-92ae-280ee3720dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Enigma/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/Enigma.Tests.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Debug/net6.0/Enigma.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Enigma.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Enigma.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/Enigma.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.Tests/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/Enigma.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/PlugBoard.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Debug/net6.0/Enigma.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Enigma.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Enigma.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/Enigma.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Enigma/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="4456f1ef-f916-4de7-92ae-280ee3720dce" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +22,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -72,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717590130828</updated>
       <workItem from="1717590131994" duration="294000" />
+      <workItem from="1717590446638" duration="879000" />
     </task>
     <servers />
   </component>
